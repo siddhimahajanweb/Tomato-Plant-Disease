@@ -1,0 +1,62 @@
+{
+  "bacterial_spot": {
+    "description": "A bacterial disease affecting tomato leaves and fruits.",
+    "symptoms": "Small dark spots with yellow halos on leaves.",
+    "prevention": "Use disease-free seeds and avoid overhead watering.",
+    "treatment": "Remove infected leaves and consult local agricultural experts about suitable copper-based products."
+  },
+  "early_blight": {
+    "description": "A fungal disease caused by Alternaria species.",
+    "symptoms": "Brown spots with concentric rings on older leaves.",
+    "prevention": "Rotate crops and avoid wetting leaves.",
+    "treatment": "Remove infected leaves and use locally recommended fungicides."
+  },
+  "healthy": {
+    "description": "The tomato leaf appears healthy.",
+    "symptoms": "Uniform green colour without visible disease spots.",
+    "prevention": "Maintain proper watering, nutrition and field hygiene.",
+    "treatment": "No disease treatment is indicated; continue regular monitoring."
+  },
+  "late_blight": {
+    "description": "A serious disease caused by Phytophthora infestans.",
+    "symptoms": "Water-soaked dark lesions that may spread rapidly.",
+    "prevention": "Ensure good airflow and avoid prolonged leaf wetness.",
+    "treatment": "Remove infected material and seek locally recommended disease management."
+  },
+  "leaf_mold": {
+    "description": "A fungal disease favoured by high humidity.",
+    "symptoms": "Yellow patches on upper leaf surfaces and olive-green growth underneath.",
+    "prevention": "Improve ventilation and reduce humidity.",
+    "treatment": "Remove infected leaves and follow local fungicide recommendations."
+  },
+  "mosaic_virus": {
+    "description": "A viral disease affecting tomato growth.",
+    "symptoms": "Mottled light and dark green leaves, sometimes distorted.",
+    "prevention": "Use virus-free seeds and control weeds and insect vectors.",
+    "treatment": "There is no curative treatment; remove infected plants where advised."
+  },
+  "septoria_leaf_spot": {
+    "description": "A fungal leaf disease caused by Septoria lycopersici.",
+    "symptoms": "Small circular spots with grey centres and dark edges.",
+    "prevention": "Remove plant debris and avoid overhead watering.",
+    "treatment": "Remove affected leaves and follow local fungicide recommendations."
+  },
+  "target_spot": {
+    "description": "A fungal disease caused by Corynespora cassiicola.",
+    "symptoms": "Brown circular lesions with concentric rings.",
+    "prevention": "Maintain spacing and avoid excessive leaf moisture.",
+    "treatment": "Remove infected leaves and consult an agricultural expert."
+  },
+  "twospotted_spider_mite": {
+    "description": "A pest infestation caused by two-spotted spider mites.",
+    "symptoms": "Fine webbing, tiny pale spots and yellowing leaves.",
+    "prevention": "Monitor leaf undersides and manage weeds.",
+    "treatment": "Use locally approved mite-management methods and verify the pest before treatment."
+  },
+  "yellow_leaf_curl_virus": {
+    "description": "A viral disease commonly transmitted by whiteflies.",
+    "symptoms": "Upward-curling yellow leaves and stunted growth.",
+    "prevention": "Monitor whiteflies and use healthy planting material.",
+    "treatment": "There is no curative treatment; manage whitefly vectors and seek agricultural advice."
+  }
+}
